@@ -1,0 +1,16 @@
+hash: 647c89084fd4c7049d8cac187d86d3ae4d988b6d9ad3b38f3e6fa218c63b902f
+updated: 2016-07-03T23:27:59.218885935+05:30
+imports:
+- name: github.com/cucumber/gherkin-go
+  version: d8988810cad48aa54406a0072d434ee162da4ebc
+- name: github.com/fatih/color
+  version: 87d4004f2ab62d0d255e0a38f1680aa534549fe3
+- name: github.com/mattn/go-colorable
+  version: 9056b7a9f2d1f2d96498d6d146acd1f9d5ed3d59
+- name: github.com/mattn/go-isatty
+  version: 56b76bdf51f7708750eac80fa38b952bb9f32639
+- name: golang.org/x/sys
+  version: 62bee037599929a6e9146f29d10dd5208c43507d
+  subpackages:
+  - unix
+devImports: []

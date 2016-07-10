@@ -1,0 +1,4 @@
+package: github.com/playlyfe/cucumber
+import:
+  - package: github.com/cucumber/gherkin-go
+  - package: github.com/fatih/color
